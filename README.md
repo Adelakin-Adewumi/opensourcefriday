@@ -37,12 +37,12 @@ To start up the local Jekyll server run:
 ./script/server
 ```
 
-Now point your browser to <http://localhost:4000> to view the site.
+Now point your browser to <http://localhost:4000> to view the site or click on open with chrome/safari from your local machine folder.
 
 ### Note on Patches/Pull Requests
 
 * Fork the project.
-* Clone your fork to your machine.
+* Clone your fork to your machine. Using gitbash, type 'git clone https://opensourcefriday.com'.
 * Create a new branch for your feature/fix.
 * Make your feature addition or bug fix.
 * Submit a pull request.
